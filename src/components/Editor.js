@@ -4,9 +4,7 @@ import '../styles/styles.css';
 
 
 class Editor extends React.Component{
-  constructor(props){
-    super(props);
-  }
+ 
    state = { userdata:
               '# Welcome to my React Markdown Previewer!\r'+
                 '## this is sub-heading\r'+
