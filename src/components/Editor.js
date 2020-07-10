@@ -18,7 +18,7 @@ class Editor extends React.Component{
                        '\t\ttext += names[i] \n' +
                       '\t}\n' +
                     '}\n\n'+
-                  '```' + '\r' +
+                  '```\r' +
                   '1. this\r1. is\r1. a numbered\r1. list\r' +
                   '> ### This is a sample blockquote\r' +
                   '> * sample bullet list\r' +
